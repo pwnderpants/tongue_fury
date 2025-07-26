@@ -1,0 +1,2 @@
+# This file ensures the UI scenes directory is tracked in git
+# Place UI scenes here (MainMenu.tscn, HUD.tscn, Settings.tscn, etc.) 

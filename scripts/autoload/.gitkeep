@@ -1,0 +1,2 @@
+# This file ensures the autoload scripts directory is tracked in git
+# Place singleton scripts here (game_manager.gd, audio_manager.gd, etc.) 

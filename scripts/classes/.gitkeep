@@ -1,0 +1,2 @@
+# This file ensures the classes scripts directory is tracked in git
+# Place reusable class scripts here (frog_controller.gd, bug_controller.gd, etc.) 

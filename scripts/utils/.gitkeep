@@ -1,0 +1,2 @@
+# This file ensures the utils scripts directory is tracked in git
+# Place helper functions and utilities here (math_utils.gd, file_utils.gd, etc.) 

@@ -1,0 +1,2 @@
+# This file ensures the effects scenes directory is tracked in git
+# Place visual effect scenes here (ExplosionEffect.tscn, ParticleSystem.tscn, etc.) 

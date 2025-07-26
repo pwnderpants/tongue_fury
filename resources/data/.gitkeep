@@ -1,0 +1,2 @@
+# This file ensures the data directory is tracked in git
+# Place game data files here (level data, configuration files, etc.) 
